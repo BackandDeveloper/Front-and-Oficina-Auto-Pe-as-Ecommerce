@@ -84,4 +84,4 @@ Este projeto está licenciado sob a **[Licença MIT](LICENSE)** - sinta-se à vo
 
 **Equipe FSN5-GRUPO02:**  
 Sally | Gabriel | Caio | Pedro | Nicolas  
-Sempre em busca de inovação e excelência. 🚗✨
+Sempre em busca de inovação e excelência! 🚗✨
